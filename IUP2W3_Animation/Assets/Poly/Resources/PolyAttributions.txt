@@ -1,0 +1,31 @@
+This project uses the following items from Poly (http://poly.google.com):
+
+Title: Adobe Max Mega Kit
+Author: 3Donimus
+URL: https://poly.google.com/view/68unrtIOrFi
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Blockies - Character Studio
+Author: Michael Fuchs
+URL: https://poly.google.com/view/1GzNUdwGUQ5
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Knights Character Kit
+Author: Jacques Fourie
+URL: https://poly.google.com/view/3r2JcOZShpE
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Monster Kit 1.0
+Author: Damon Pidhajecky
+URL: https://poly.google.com/view/8gVr4pedhp9
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Warrior
+Author: Joe Tossey
+URL: https://poly.google.com/view/eYBoTXiW9r2
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode

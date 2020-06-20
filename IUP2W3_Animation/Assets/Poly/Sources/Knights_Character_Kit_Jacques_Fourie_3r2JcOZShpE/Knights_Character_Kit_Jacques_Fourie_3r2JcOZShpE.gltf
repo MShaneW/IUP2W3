@@ -1,0 +1,1733 @@
+{
+	"asset": {
+		"generator": "Blocks",
+		"version": "105",
+		"copyright": "Unknown"
+	},
+	"buffers": {
+		"model": {
+			"byteLength": 4932748,
+			"type": "arraybuffer",
+			"uri": "model.bin"
+		}
+	},
+	"accessors": {
+		"accessor_position_m0-PolyPaper23_-118936": {
+			"bufferView": "vec3BufferView",
+			"byteOffset": 0,
+			"byteStride": 12,
+			"componentType": 5126,
+			"count": 9786,
+			"max": [ 4.453655, -0.4048146, 3.166713 ],
+			"min": [ -4.209964, -1.452341, -2.102075 ],
+			"type": "VEC3"
+		 },
+		"accessor_normal_m0-PolyPaper23_-118936": {
+			"bufferView": "vec3BufferView",
+			"byteOffset": 117432,
+			"byteStride": 12,
+			"componentType": 5126,
+			"count": 9786,
+			"max": [ 1, 1, 1 ],
+			"min": [ -1, -1, -1 ],
+			"type": "VEC3"
+		 },
+		"accessor_color_m0-PolyPaper23_-118936": {
+			"bufferView": "vec4BufferView",
+			"byteOffset": 0,
+			"byteStride": 16,
+			"componentType": 5126,
+			"count": 9786,
+			"max": [ 1, 1, 1, 1 ],
+			"min": [ 0.1019608, 0.1019608, 0.1019608, 1 ],
+			"type": "VEC4"
+		 },
+		"accessor_indices_0_m0-PolyPaper23_-118936": {
+			"bufferView": "ushortBufferView",
+			"byteOffset": 0,
+			"byteStride": 0,
+			"componentType": 5123,
+			"count": 13740,
+			"max": [ 9785 ],
+			"min": [ 0 ],
+			"type": "SCALAR"
+		 },
+		"accessor_position_m1-PolyPaper9_-125506": {
+			"bufferView": "vec3BufferView",
+			"byteOffset": 234864,
+			"byteStride": 12,
+			"componentType": 5126,
+			"count": 470,
+			"max": [ 4.970024, -1.009926, 4.179988 ],
+			"min": [ -1.430004, -1.90004, -2.220026 ],
+			"type": "VEC3"
+		 },
+		"accessor_normal_m1-PolyPaper9_-125506": {
+			"bufferView": "vec3BufferView",
+			"byteOffset": 240504,
+			"byteStride": 12,
+			"componentType": 5126,
+			"count": 470,
+			"max": [ 1, 1, 1 ],
+			"min": [ -1, -1, -1 ],
+			"type": "VEC3"
+		 },
+		"accessor_color_m1-PolyPaper9_-125506": {
+			"bufferView": "vec4BufferView",
+			"byteOffset": 156576,
+			"byteStride": 16,
+			"componentType": 5126,
+			"count": 470,
+			"max": [ 0.5450981, 0.7647059, 0.6117647, 1 ],
+			"min": [ 0.1019608, 0.1019608, 0.1019608, 1 ],
+			"type": "VEC4"
+		 },
+		"accessor_indices_0_m1-PolyPaper9_-125506": {
+			"bufferView": "ushortBufferView",
+			"byteOffset": 27480,
+			"byteStride": 0,
+			"componentType": 5123,
+			"count": 636,
+			"max": [ 469 ],
+			"min": [ 0 ],
+			"type": "SCALAR"
+		 },
+		"accessor_position_m2-PolyPaper17_-125512": {
+			"bufferView": "vec3BufferView",
+			"byteOffset": 246144,
+			"byteStride": 12,
+			"componentType": 5126,
+			"count": 9958,
+			"max": [ 4.850313, -0.4239656, 4.095009 ],
+			"min": [ -4.270232, -1.46003, -2.063949 ],
+			"type": "VEC3"
+		 },
+		"accessor_normal_m2-PolyPaper17_-125512": {
+			"bufferView": "vec3BufferView",
+			"byteOffset": 365640,
+			"byteStride": 12,
+			"componentType": 5126,
+			"count": 9958,
+			"max": [ 1, 1, 1 ],
+			"min": [ -1, -1, -1 ],
+			"type": "VEC3"
+		 },
+		"accessor_color_m2-PolyPaper17_-125512": {
+			"bufferView": "vec4BufferView",
+			"byteOffset": 164096,
+			"byteStride": 16,
+			"componentType": 5126,
+			"count": 9958,
+			"max": [ 1, 0.9215686, 0.8980392, 1 ],
+			"min": [ 0.01176471, 0.1019608, 0.1019608, 1 ],
+			"type": "VEC4"
+		 },
+		"accessor_indices_0_m2-PolyPaper17_-125512": {
+			"bufferView": "ushortBufferView",
+			"byteOffset": 28752,
+			"byteStride": 0,
+			"componentType": 5123,
+			"count": 13446,
+			"max": [ 9957 ],
+			"min": [ 0 ],
+			"type": "SCALAR"
+		 },
+		"accessor_position_m3-PolyPaper8_-125514": {
+			"bufferView": "vec3BufferView",
+			"byteOffset": 485136,
+			"byteStride": 12,
+			"componentType": 5126,
+			"count": 9988,
+			"max": [ 4.865031, -0.7300307, 3.980914 ],
+			"min": [ -4.14001, -1.452898, -1.811568 ],
+			"type": "VEC3"
+		 },
+		"accessor_normal_m3-PolyPaper8_-125514": {
+			"bufferView": "vec3BufferView",
+			"byteOffset": 604992,
+			"byteStride": 12,
+			"componentType": 5126,
+			"count": 9988,
+			"max": [ 1, 1, 1 ],
+			"min": [ -1, -1, -1 ],
+			"type": "VEC3"
+		 },
+		"accessor_color_m3-PolyPaper8_-125514": {
+			"bufferView": "vec4BufferView",
+			"byteOffset": 323424,
+			"byteStride": 16,
+			"componentType": 5126,
+			"count": 9988,
+			"max": [ 1, 0.9215686, 0.8980392, 1 ],
+			"min": [ 0.01176471, 0.1019608, 0.1019608, 1 ],
+			"type": "VEC4"
+		 },
+		"accessor_indices_0_m3-PolyPaper8_-125514": {
+			"bufferView": "ushortBufferView",
+			"byteOffset": 55644,
+			"byteStride": 0,
+			"componentType": 5123,
+			"count": 14250,
+			"max": [ 9987 ],
+			"min": [ 0 ],
+			"type": "SCALAR"
+		 },
+		"accessor_position_m4-PolyPaper11_-13502": {
+			"bufferView": "vec3BufferView",
+			"byteOffset": 724848,
+			"byteStride": 12,
+			"componentType": 5126,
+			"count": 9848,
+			"max": [ 4.732115, -0.3900066, 2.826337 ],
+			"min": [ -3.374713, -1.439796, -1.22343 ],
+			"type": "VEC3"
+		 },
+		"accessor_normal_m4-PolyPaper11_-13502": {
+			"bufferView": "vec3BufferView",
+			"byteOffset": 843024,
+			"byteStride": 12,
+			"componentType": 5126,
+			"count": 9848,
+			"max": [ 1, 1, 1 ],
+			"min": [ -1, -1, -1 ],
+			"type": "VEC3"
+		 },
+		"accessor_color_m4-PolyPaper11_-13502": {
+			"bufferView": "vec4BufferView",
+			"byteOffset": 483232,
+			"byteStride": 16,
+			"componentType": 5126,
+			"count": 9848,
+			"max": [ 0.9568627, 0.8470588, 0.8980392, 1 ],
+			"min": [ 0, 0.1019608, 0.1019608, 1 ],
+			"type": "VEC4"
+		 },
+		"accessor_indices_0_m4-PolyPaper11_-13502": {
+			"bufferView": "ushortBufferView",
+			"byteOffset": 84144,
+			"byteStride": 0,
+			"componentType": 5123,
+			"count": 13440,
+			"max": [ 9847 ],
+			"min": [ 0 ],
+			"type": "SCALAR"
+		 },
+		"accessor_position_m5-PolyPaper17_-13504": {
+			"bufferView": "vec3BufferView",
+			"byteOffset": 961200,
+			"byteStride": 12,
+			"componentType": 5126,
+			"count": 9688,
+			"max": [ 4.761501, -0.4050391, 2.673619 ],
+			"min": [ -0.9979179, -1.501447, -2.115809 ],
+			"type": "VEC3"
+		 },
+		"accessor_normal_m5-PolyPaper17_-13504": {
+			"bufferView": "vec3BufferView",
+			"byteOffset": 1077456,
+			"byteStride": 12,
+			"componentType": 5126,
+			"count": 9688,
+			"max": [ 1, 1, 1 ],
+			"min": [ -1, -1, -1 ],
+			"type": "VEC3"
+		 },
+		"accessor_color_m5-PolyPaper17_-13504": {
+			"bufferView": "vec4BufferView",
+			"byteOffset": 640800,
+			"byteStride": 16,
+			"componentType": 5126,
+			"count": 9688,
+			"max": [ 0.9568627, 0.5647059, 0.6117647, 1 ],
+			"min": [ 0.1019608, 0.1019608, 0.1019608, 1 ],
+			"type": "VEC4"
+		 },
+		"accessor_indices_0_m5-PolyPaper17_-13504": {
+			"bufferView": "ushortBufferView",
+			"byteOffset": 111024,
+			"byteStride": 0,
+			"componentType": 5123,
+			"count": 13338,
+			"max": [ 9687 ],
+			"min": [ 0 ],
+			"type": "SCALAR"
+		 },
+		"accessor_position_m6-PolyPaper20_-13506": {
+			"bufferView": "vec3BufferView",
+			"byteOffset": 1193712,
+			"byteStride": 12,
+			"componentType": 5126,
+			"count": 7464,
+			"max": [ 4.890638, -0.7194689, 4.094344 ],
+			"min": [ -1.069999, -1.525628, -2.051471 ],
+			"type": "VEC3"
+		 },
+		"accessor_normal_m6-PolyPaper20_-13506": {
+			"bufferView": "vec3BufferView",
+			"byteOffset": 1283280,
+			"byteStride": 12,
+			"componentType": 5126,
+			"count": 7464,
+			"max": [ 1, 1, 1 ],
+			"min": [ -1, -1, -1 ],
+			"type": "VEC3"
+		 },
+		"accessor_color_m6-PolyPaper20_-13506": {
+			"bufferView": "vec4BufferView",
+			"byteOffset": 795808,
+			"byteStride": 16,
+			"componentType": 5126,
+			"count": 7464,
+			"max": [ 0.4745098, 0.5647059, 0.6117647, 1 ],
+			"min": [ 0.1019608, 0.1019608, 0.1019608, 1 ],
+			"type": "VEC4"
+		 },
+		"accessor_indices_0_m6-PolyPaper20_-13506": {
+			"bufferView": "ushortBufferView",
+			"byteOffset": 137700,
+			"byteStride": 0,
+			"componentType": 5123,
+			"count": 9630,
+			"max": [ 7463 ],
+			"min": [ 0 ],
+			"type": "SCALAR"
+		 },
+		"accessor_position_m7-PolyPaper23_-125510": {
+			"bufferView": "vec3BufferView",
+			"byteOffset": 1372848,
+			"byteStride": 12,
+			"componentType": 5126,
+			"count": 9984,
+			"max": [ 4.797417, -0.8456794, 4.07533 ],
+			"min": [ 0.4835534, -1.564079, 1.94279 ],
+			"type": "VEC3"
+		 },
+		"accessor_normal_m7-PolyPaper23_-125510": {
+			"bufferView": "vec3BufferView",
+			"byteOffset": 1492656,
+			"byteStride": 12,
+			"componentType": 5126,
+			"count": 9984,
+			"max": [ 0.9994768, 0.999905, 0.9997724 ],
+			"min": [ -0.9997036, -0.9996248, -1 ],
+			"type": "VEC3"
+		 },
+		"accessor_color_m7-PolyPaper23_-125510": {
+			"bufferView": "vec4BufferView",
+			"byteOffset": 915232,
+			"byteStride": 16,
+			"componentType": 5126,
+			"count": 9984,
+			"max": [ 0.1019608, 0.1019608, 0.1019608, 1 ],
+			"min": [ 0.1019608, 0.1019608, 0.1019608, 1 ],
+			"type": "VEC4"
+		 },
+		"accessor_indices_0_m7-PolyPaper23_-125510": {
+			"bufferView": "ushortBufferView",
+			"byteOffset": 156960,
+			"byteStride": 0,
+			"componentType": 5123,
+			"count": 14514,
+			"max": [ 9983 ],
+			"min": [ 0 ],
+			"type": "SCALAR"
+		 },
+		"accessor_position_m8-PolyPaper16_-13510": {
+			"bufferView": "vec3BufferView",
+			"byteOffset": 1612464,
+			"byteStride": 12,
+			"componentType": 5126,
+			"count": 9668,
+			"max": [ 4.736381, -0.4054363, 4.123019 ],
+			"min": [ -2.725034, -1.513151, -2.118194 ],
+			"type": "VEC3"
+		 },
+		"accessor_normal_m8-PolyPaper16_-13510": {
+			"bufferView": "vec3BufferView",
+			"byteOffset": 1728480,
+			"byteStride": 12,
+			"componentType": 5126,
+			"count": 9668,
+			"max": [ 1, 1, 1 ],
+			"min": [ -1, -1, -1 ],
+			"type": "VEC3"
+		 },
+		"accessor_color_m8-PolyPaper16_-13510": {
+			"bufferView": "vec4BufferView",
+			"byteOffset": 1074976,
+			"byteStride": 16,
+			"componentType": 5126,
+			"count": 9668,
+			"max": [ 0.6117647, 0.5647059, 0.6901961, 1 ],
+			"min": [ 0.1019608, 0.1019608, 0.1019608, 1 ],
+			"type": "VEC4"
+		 },
+		"accessor_indices_0_m8-PolyPaper16_-13510": {
+			"bufferView": "ushortBufferView",
+			"byteOffset": 185988,
+			"byteStride": 0,
+			"componentType": 5123,
+			"count": 11982,
+			"max": [ 9667 ],
+			"min": [ 0 ],
+			"type": "SCALAR"
+		 },
+		"accessor_position_m9-PolyPaper17_-13512": {
+			"bufferView": "vec3BufferView",
+			"byteOffset": 1844496,
+			"byteStride": 12,
+			"componentType": 5126,
+			"count": 9918,
+			"max": [ 2.417403, -0.5681057, 2.464589 ],
+			"min": [ -4.132402, -1.396437, -2.033558 ],
+			"type": "VEC3"
+		 },
+		"accessor_normal_m9-PolyPaper17_-13512": {
+			"bufferView": "vec3BufferView",
+			"byteOffset": 1963512,
+			"byteStride": 12,
+			"componentType": 5126,
+			"count": 9918,
+			"max": [ 1, 1, 1 ],
+			"min": [ -1, -1, -1 ],
+			"type": "VEC3"
+		 },
+		"accessor_color_m9-PolyPaper17_-13512": {
+			"bufferView": "vec4BufferView",
+			"byteOffset": 1229664,
+			"byteStride": 16,
+			"componentType": 5126,
+			"count": 9918,
+			"max": [ 0.6196079, 0.6196079, 0.6196079, 1 ],
+			"min": [ 0.1019608, 0.1019608, 0.1019608, 1 ],
+			"type": "VEC4"
+		 },
+		"accessor_indices_0_m9-PolyPaper17_-13512": {
+			"bufferView": "ushortBufferView",
+			"byteOffset": 209952,
+			"byteStride": 0,
+			"componentType": 5123,
+			"count": 14754,
+			"max": [ 9917 ],
+			"min": [ 0 ],
+			"type": "SCALAR"
+		 },
+		"accessor_position_m10-PolyPaper20_-48792": {
+			"bufferView": "vec3BufferView",
+			"byteOffset": 2082528,
+			"byteStride": 12,
+			"componentType": 5126,
+			"count": 9880,
+			"max": [ 4.722056, -0.4099902, 2.971128 ],
+			"min": [ -3.808923, -1.511971, -2.118105 ],
+			"type": "VEC3"
+		 },
+		"accessor_normal_m10-PolyPaper20_-48792": {
+			"bufferView": "vec3BufferView",
+			"byteOffset": 2201088,
+			"byteStride": 12,
+			"componentType": 5126,
+			"count": 9880,
+			"max": [ 1, 1, 1 ],
+			"min": [ -1, -1, -1 ],
+			"type": "VEC3"
+		 },
+		"accessor_color_m10-PolyPaper20_-48792": {
+			"bufferView": "vec4BufferView",
+			"byteOffset": 1388352,
+			"byteStride": 16,
+			"componentType": 5126,
+			"count": 9880,
+			"max": [ 0.9568627, 0.7372549, 0.8313726, 1 ],
+			"min": [ 0, 0.1019608, 0.1019608, 1 ],
+			"type": "VEC4"
+		 },
+		"accessor_indices_0_m10-PolyPaper20_-48792": {
+			"bufferView": "ushortBufferView",
+			"byteOffset": 239460,
+			"byteStride": 0,
+			"componentType": 5123,
+			"count": 13764,
+			"max": [ 9879 ],
+			"min": [ 0 ],
+			"type": "SCALAR"
+		 },
+		"accessor_position_m11-PolyPaper17_-126568": {
+			"bufferView": "vec3BufferView",
+			"byteOffset": 2319648,
+			"byteStride": 12,
+			"componentType": 5126,
+			"count": 8794,
+			"max": [ 4.883427, -0.7000282, 4.07002 ],
+			"min": [ -3.088645, -1.519424, -1.204998 ],
+			"type": "VEC3"
+		 },
+		"accessor_normal_m11-PolyPaper17_-126568": {
+			"bufferView": "vec3BufferView",
+			"byteOffset": 2425176,
+			"byteStride": 12,
+			"componentType": 5126,
+			"count": 8794,
+			"max": [ 1, 1, 1 ],
+			"min": [ -1, -1, -1 ],
+			"type": "VEC3"
+		 },
+		"accessor_color_m11-PolyPaper17_-126568": {
+			"bufferView": "vec4BufferView",
+			"byteOffset": 1546432,
+			"byteStride": 16,
+			"componentType": 5126,
+			"count": 8794,
+			"max": [ 1, 0.9215686, 0.8627451, 1 ],
+			"min": [ 0.1019608, 0.1019608, 0.1019608, 1 ],
+			"type": "VEC4"
+		 },
+		"accessor_indices_0_m11-PolyPaper17_-126568": {
+			"bufferView": "ushortBufferView",
+			"byteOffset": 266988,
+			"byteStride": 0,
+			"componentType": 5123,
+			"count": 10824,
+			"max": [ 8793 ],
+			"min": [ 0 ],
+			"type": "SCALAR"
+		 },
+		"accessor_position_m12-PolyPaper21_-125502": {
+			"bufferView": "vec3BufferView",
+			"byteOffset": 2530704,
+			"byteStride": 12,
+			"componentType": 5126,
+			"count": 9992,
+			"max": [ 4.876193, -0.4420356, 4.180041 ],
+			"min": [ -4.62999, -1.900033, -2.22002 ],
+			"type": "VEC3"
+		 },
+		"accessor_normal_m12-PolyPaper21_-125502": {
+			"bufferView": "vec3BufferView",
+			"byteOffset": 2650608,
+			"byteStride": 12,
+			"componentType": 5126,
+			"count": 9992,
+			"max": [ 1, 1, 1 ],
+			"min": [ -1, -1, -1 ],
+			"type": "VEC3"
+		 },
+		"accessor_color_m12-PolyPaper21_-125502": {
+			"bufferView": "vec4BufferView",
+			"byteOffset": 1687136,
+			"byteStride": 16,
+			"componentType": 5126,
+			"count": 9992,
+			"max": [ 1, 1, 1, 1 ],
+			"min": [ 0.01176471, 0.1019608, 0.1019608, 1 ],
+			"type": "VEC4"
+		 },
+		"accessor_indices_0_m12-PolyPaper21_-125502": {
+			"bufferView": "ushortBufferView",
+			"byteOffset": 288636,
+			"byteStride": 0,
+			"componentType": 5123,
+			"count": 13296,
+			"max": [ 9991 ],
+			"min": [ 0 ],
+			"type": "SCALAR"
+		 }
+	},
+	"bufferViews": {
+		"ushortBufferView": {
+			"buffer": "model",
+			"byteLength": 315228,
+			"byteOffset": 0,
+			"target": 34963
+		},
+		"vec3BufferView": {
+			"buffer": "model",
+			"byteLength": 2770512,
+			"byteOffset": 315228,
+			"target": 34962
+		},
+		"vec4BufferView": {
+			"buffer": "model",
+			"byteLength": 1847008,
+			"byteOffset": 3085740,
+			"target": 34962
+		}
+	},
+	"meshes": {
+		"mesh_m0-PolyPaper23_-118936": {
+			"name": "mesh_m0-PolyPaper23_-118936",
+			"primitives": [
+				{
+					"attributes": {
+						"POSITION": "accessor_position_m0-PolyPaper23_-118936",
+						"NORMAL": "accessor_normal_m0-PolyPaper23_-118936",
+						"COLOR": "accessor_color_m0-PolyPaper23_-118936"
+					},
+					"indices": "accessor_indices_0_m0-PolyPaper23_-118936",
+					"material": "material_mat23",
+					"mode": 4
+				}
+			]
+		},
+		"mesh_m1-PolyPaper9_-125506": {
+			"name": "mesh_m1-PolyPaper9_-125506",
+			"primitives": [
+				{
+					"attributes": {
+						"POSITION": "accessor_position_m1-PolyPaper9_-125506",
+						"NORMAL": "accessor_normal_m1-PolyPaper9_-125506",
+						"COLOR": "accessor_color_m1-PolyPaper9_-125506"
+					},
+					"indices": "accessor_indices_0_m1-PolyPaper9_-125506",
+					"material": "material_mat9",
+					"mode": 4
+				}
+			]
+		},
+		"mesh_m2-PolyPaper17_-125512": {
+			"name": "mesh_m2-PolyPaper17_-125512",
+			"primitives": [
+				{
+					"attributes": {
+						"POSITION": "accessor_position_m2-PolyPaper17_-125512",
+						"NORMAL": "accessor_normal_m2-PolyPaper17_-125512",
+						"COLOR": "accessor_color_m2-PolyPaper17_-125512"
+					},
+					"indices": "accessor_indices_0_m2-PolyPaper17_-125512",
+					"material": "material_mat17",
+					"mode": 4
+				}
+			]
+		},
+		"mesh_m3-PolyPaper8_-125514": {
+			"name": "mesh_m3-PolyPaper8_-125514",
+			"primitives": [
+				{
+					"attributes": {
+						"POSITION": "accessor_position_m3-PolyPaper8_-125514",
+						"NORMAL": "accessor_normal_m3-PolyPaper8_-125514",
+						"COLOR": "accessor_color_m3-PolyPaper8_-125514"
+					},
+					"indices": "accessor_indices_0_m3-PolyPaper8_-125514",
+					"material": "material_mat8",
+					"mode": 4
+				}
+			]
+		},
+		"mesh_m4-PolyPaper11_-13502": {
+			"name": "mesh_m4-PolyPaper11_-13502",
+			"primitives": [
+				{
+					"attributes": {
+						"POSITION": "accessor_position_m4-PolyPaper11_-13502",
+						"NORMAL": "accessor_normal_m4-PolyPaper11_-13502",
+						"COLOR": "accessor_color_m4-PolyPaper11_-13502"
+					},
+					"indices": "accessor_indices_0_m4-PolyPaper11_-13502",
+					"material": "material_mat11",
+					"mode": 4
+				}
+			]
+		},
+		"mesh_m5-PolyPaper17_-13504": {
+			"name": "mesh_m5-PolyPaper17_-13504",
+			"primitives": [
+				{
+					"attributes": {
+						"POSITION": "accessor_position_m5-PolyPaper17_-13504",
+						"NORMAL": "accessor_normal_m5-PolyPaper17_-13504",
+						"COLOR": "accessor_color_m5-PolyPaper17_-13504"
+					},
+					"indices": "accessor_indices_0_m5-PolyPaper17_-13504",
+					"material": "material_mat17",
+					"mode": 4
+				}
+			]
+		},
+		"mesh_m6-PolyPaper20_-13506": {
+			"name": "mesh_m6-PolyPaper20_-13506",
+			"primitives": [
+				{
+					"attributes": {
+						"POSITION": "accessor_position_m6-PolyPaper20_-13506",
+						"NORMAL": "accessor_normal_m6-PolyPaper20_-13506",
+						"COLOR": "accessor_color_m6-PolyPaper20_-13506"
+					},
+					"indices": "accessor_indices_0_m6-PolyPaper20_-13506",
+					"material": "material_mat20",
+					"mode": 4
+				}
+			]
+		},
+		"mesh_m7-PolyPaper23_-125510": {
+			"name": "mesh_m7-PolyPaper23_-125510",
+			"primitives": [
+				{
+					"attributes": {
+						"POSITION": "accessor_position_m7-PolyPaper23_-125510",
+						"NORMAL": "accessor_normal_m7-PolyPaper23_-125510",
+						"COLOR": "accessor_color_m7-PolyPaper23_-125510"
+					},
+					"indices": "accessor_indices_0_m7-PolyPaper23_-125510",
+					"material": "material_mat23",
+					"mode": 4
+				}
+			]
+		},
+		"mesh_m8-PolyPaper16_-13510": {
+			"name": "mesh_m8-PolyPaper16_-13510",
+			"primitives": [
+				{
+					"attributes": {
+						"POSITION": "accessor_position_m8-PolyPaper16_-13510",
+						"NORMAL": "accessor_normal_m8-PolyPaper16_-13510",
+						"COLOR": "accessor_color_m8-PolyPaper16_-13510"
+					},
+					"indices": "accessor_indices_0_m8-PolyPaper16_-13510",
+					"material": "material_mat16",
+					"mode": 4
+				}
+			]
+		},
+		"mesh_m9-PolyPaper17_-13512": {
+			"name": "mesh_m9-PolyPaper17_-13512",
+			"primitives": [
+				{
+					"attributes": {
+						"POSITION": "accessor_position_m9-PolyPaper17_-13512",
+						"NORMAL": "accessor_normal_m9-PolyPaper17_-13512",
+						"COLOR": "accessor_color_m9-PolyPaper17_-13512"
+					},
+					"indices": "accessor_indices_0_m9-PolyPaper17_-13512",
+					"material": "material_mat17",
+					"mode": 4
+				}
+			]
+		},
+		"mesh_m10-PolyPaper20_-48792": {
+			"name": "mesh_m10-PolyPaper20_-48792",
+			"primitives": [
+				{
+					"attributes": {
+						"POSITION": "accessor_position_m10-PolyPaper20_-48792",
+						"NORMAL": "accessor_normal_m10-PolyPaper20_-48792",
+						"COLOR": "accessor_color_m10-PolyPaper20_-48792"
+					},
+					"indices": "accessor_indices_0_m10-PolyPaper20_-48792",
+					"material": "material_mat20",
+					"mode": 4
+				}
+			]
+		},
+		"mesh_m11-PolyPaper17_-126568": {
+			"name": "mesh_m11-PolyPaper17_-126568",
+			"primitives": [
+				{
+					"attributes": {
+						"POSITION": "accessor_position_m11-PolyPaper17_-126568",
+						"NORMAL": "accessor_normal_m11-PolyPaper17_-126568",
+						"COLOR": "accessor_color_m11-PolyPaper17_-126568"
+					},
+					"indices": "accessor_indices_0_m11-PolyPaper17_-126568",
+					"material": "material_mat17",
+					"mode": 4
+				}
+			]
+		},
+		"mesh_m12-PolyPaper21_-125502": {
+			"name": "mesh_m12-PolyPaper21_-125502",
+			"primitives": [
+				{
+					"attributes": {
+						"POSITION": "accessor_position_m12-PolyPaper21_-125502",
+						"NORMAL": "accessor_normal_m12-PolyPaper21_-125502",
+						"COLOR": "accessor_color_m12-PolyPaper21_-125502"
+					},
+					"indices": "accessor_indices_0_m12-PolyPaper21_-125502",
+					"material": "material_mat21",
+					"mode": 4
+				}
+			]
+		}
+	},
+	"shaders": {
+		"vertex_mat23": {
+			"type": 35633,
+			"uri": "https://vr.google.com/shaders/w/vs.glsl"
+		},
+		"fragment_mat23": {
+			"type": 35632,
+			"uri": "https://vr.google.com/shaders/w/fs.glsl"
+		},
+		"vertex_mat9": {
+			"type": 35633,
+			"uri": "https://vr.google.com/shaders/w/vs.glsl"
+		},
+		"fragment_mat9": {
+			"type": 35632,
+			"uri": "https://vr.google.com/shaders/w/fs.glsl"
+		},
+		"vertex_mat17": {
+			"type": 35633,
+			"uri": "https://vr.google.com/shaders/w/vs.glsl"
+		},
+		"fragment_mat17": {
+			"type": 35632,
+			"uri": "https://vr.google.com/shaders/w/fs.glsl"
+		},
+		"vertex_mat8": {
+			"type": 35633,
+			"uri": "https://vr.google.com/shaders/w/vs.glsl"
+		},
+		"fragment_mat8": {
+			"type": 35632,
+			"uri": "https://vr.google.com/shaders/w/fs.glsl"
+		},
+		"vertex_mat11": {
+			"type": 35633,
+			"uri": "https://vr.google.com/shaders/w/vs.glsl"
+		},
+		"fragment_mat11": {
+			"type": 35632,
+			"uri": "https://vr.google.com/shaders/w/fs.glsl"
+		},
+		"vertex_mat20": {
+			"type": 35633,
+			"uri": "https://vr.google.com/shaders/w/vs.glsl"
+		},
+		"fragment_mat20": {
+			"type": 35632,
+			"uri": "https://vr.google.com/shaders/w/fs.glsl"
+		},
+		"vertex_mat16": {
+			"type": 35633,
+			"uri": "https://vr.google.com/shaders/w/vs.glsl"
+		},
+		"fragment_mat16": {
+			"type": 35632,
+			"uri": "https://vr.google.com/shaders/w/fs.glsl"
+		},
+		"vertex_mat21": {
+			"type": 35633,
+			"uri": "https://vr.google.com/shaders/w/vs.glsl"
+		},
+		"fragment_mat21": {
+			"type": 35632,
+			"uri": "https://vr.google.com/shaders/w/fs.glsl"
+		}
+	},
+	"programs": {
+		"program_mat23": {
+			"attributes": [
+				"a_position",
+				"a_normal",
+				"a_color"				
+			],
+			"vertexShader": "vertex_mat23",
+			"fragmentShader": "fragment_mat23"
+		},
+		"program_mat9": {
+			"attributes": [
+				"a_position",
+				"a_normal",
+				"a_color"				
+			],
+			"vertexShader": "vertex_mat9",
+			"fragmentShader": "fragment_mat9"
+		},
+		"program_mat17": {
+			"attributes": [
+				"a_position",
+				"a_normal",
+				"a_color"				
+			],
+			"vertexShader": "vertex_mat17",
+			"fragmentShader": "fragment_mat17"
+		},
+		"program_mat8": {
+			"attributes": [
+				"a_position",
+				"a_normal",
+				"a_color"				
+			],
+			"vertexShader": "vertex_mat8",
+			"fragmentShader": "fragment_mat8"
+		},
+		"program_mat11": {
+			"attributes": [
+				"a_position",
+				"a_normal",
+				"a_color"				
+			],
+			"vertexShader": "vertex_mat11",
+			"fragmentShader": "fragment_mat11"
+		},
+		"program_mat20": {
+			"attributes": [
+				"a_position",
+				"a_normal",
+				"a_color"				
+			],
+			"vertexShader": "vertex_mat20",
+			"fragmentShader": "fragment_mat20"
+		},
+		"program_mat16": {
+			"attributes": [
+				"a_position",
+				"a_normal",
+				"a_color"				
+			],
+			"vertexShader": "vertex_mat16",
+			"fragmentShader": "fragment_mat16"
+		},
+		"program_mat21": {
+			"attributes": [
+				"a_position",
+				"a_normal",
+				"a_color"				
+			],
+			"vertexShader": "vertex_mat21",
+			"fragmentShader": "fragment_mat21"
+		}
+	},
+	"techniques": {
+		"technique_mat23": {
+			"program": "program_mat23",
+			"extras": {"gvrss" : "https://vr.google.com/shaders/w/gvrss/paper.json"},
+			"parameters": {
+				"position": {
+					"type": 35665,
+					"semantic": "POSITION"
+				},
+				"normal": {
+					"type": 35665,
+					"semantic": "NORMAL"
+				},
+				"color": {
+					"type": 35666,
+					"semantic": "COLOR"
+				},
+				"modelViewMatrix": {
+					"type": 35676,
+					"semantic": "MODELVIEW"
+				},
+				"projectionMatrix": {
+					"type": 35676,
+					"semantic": "PROJECTION"
+				},
+				"normalMatrix": {
+					"type": 35675,
+					"semantic": "MODELVIEWINVERSETRANSPOSE"
+				},
+				"color": {
+					"type": 35666
+				},
+				"roughness": {
+					"type": 5126
+				},
+				"metallic": {
+					"type": 5126
+				},
+				"light0Pos": {
+					"type": 35666
+				},
+				"light0Color": {
+					"type": 35666
+				},
+				"light1Pos": {
+					"type": 35666
+				},
+				"light1Color": {
+					"type": 35666
+				}				
+			},
+			"attributes": {
+				"a_position": "position",
+				"a_normal": "normal",
+				"a_color": "color"				
+			},
+			"uniforms": {
+				"u_modelViewMatrix": "modelViewMatrix",
+				"u_projectionMatrix": "projectionMatrix",
+				"u_normalMatrix": "normalMatrix",
+				"u_color": "color",
+				"u_roughness": "roughness",
+				"u_metallic": "metallic",
+				"u_light0Pos": "light0Pos",
+				"u_light0Color": "light0Color",
+				"u_light1Pos": "light1Pos",
+				"u_light1Color": "light1Color"				
+			},
+			"states": {
+				"enable": [
+					2929,
+					2884
+				],
+				"functions": {
+					"cullFace": [1029]
+				}
+			}
+		},
+		"technique_mat9": {
+			"program": "program_mat9",
+			"extras": {"gvrss" : "https://vr.google.com/shaders/w/gvrss/paper.json"},
+			"parameters": {
+				"position": {
+					"type": 35665,
+					"semantic": "POSITION"
+				},
+				"normal": {
+					"type": 35665,
+					"semantic": "NORMAL"
+				},
+				"color": {
+					"type": 35666,
+					"semantic": "COLOR"
+				},
+				"modelViewMatrix": {
+					"type": 35676,
+					"semantic": "MODELVIEW"
+				},
+				"projectionMatrix": {
+					"type": 35676,
+					"semantic": "PROJECTION"
+				},
+				"normalMatrix": {
+					"type": 35675,
+					"semantic": "MODELVIEWINVERSETRANSPOSE"
+				},
+				"color": {
+					"type": 35666
+				},
+				"roughness": {
+					"type": 5126
+				},
+				"metallic": {
+					"type": 5126
+				},
+				"light0Pos": {
+					"type": 35666
+				},
+				"light0Color": {
+					"type": 35666
+				},
+				"light1Pos": {
+					"type": 35666
+				},
+				"light1Color": {
+					"type": 35666
+				}				
+			},
+			"attributes": {
+				"a_position": "position",
+				"a_normal": "normal",
+				"a_color": "color"				
+			},
+			"uniforms": {
+				"u_modelViewMatrix": "modelViewMatrix",
+				"u_projectionMatrix": "projectionMatrix",
+				"u_normalMatrix": "normalMatrix",
+				"u_color": "color",
+				"u_roughness": "roughness",
+				"u_metallic": "metallic",
+				"u_light0Pos": "light0Pos",
+				"u_light0Color": "light0Color",
+				"u_light1Pos": "light1Pos",
+				"u_light1Color": "light1Color"				
+			},
+			"states": {
+				"enable": [
+					2929,
+					2884
+				],
+				"functions": {
+					"cullFace": [1029]
+				}
+			}
+		},
+		"technique_mat17": {
+			"program": "program_mat17",
+			"extras": {"gvrss" : "https://vr.google.com/shaders/w/gvrss/paper.json"},
+			"parameters": {
+				"position": {
+					"type": 35665,
+					"semantic": "POSITION"
+				},
+				"normal": {
+					"type": 35665,
+					"semantic": "NORMAL"
+				},
+				"color": {
+					"type": 35666,
+					"semantic": "COLOR"
+				},
+				"modelViewMatrix": {
+					"type": 35676,
+					"semantic": "MODELVIEW"
+				},
+				"projectionMatrix": {
+					"type": 35676,
+					"semantic": "PROJECTION"
+				},
+				"normalMatrix": {
+					"type": 35675,
+					"semantic": "MODELVIEWINVERSETRANSPOSE"
+				},
+				"color": {
+					"type": 35666
+				},
+				"roughness": {
+					"type": 5126
+				},
+				"metallic": {
+					"type": 5126
+				},
+				"light0Pos": {
+					"type": 35666
+				},
+				"light0Color": {
+					"type": 35666
+				},
+				"light1Pos": {
+					"type": 35666
+				},
+				"light1Color": {
+					"type": 35666
+				}				
+			},
+			"attributes": {
+				"a_position": "position",
+				"a_normal": "normal",
+				"a_color": "color"				
+			},
+			"uniforms": {
+				"u_modelViewMatrix": "modelViewMatrix",
+				"u_projectionMatrix": "projectionMatrix",
+				"u_normalMatrix": "normalMatrix",
+				"u_color": "color",
+				"u_roughness": "roughness",
+				"u_metallic": "metallic",
+				"u_light0Pos": "light0Pos",
+				"u_light0Color": "light0Color",
+				"u_light1Pos": "light1Pos",
+				"u_light1Color": "light1Color"				
+			},
+			"states": {
+				"enable": [
+					2929,
+					2884
+				],
+				"functions": {
+					"cullFace": [1029]
+				}
+			}
+		},
+		"technique_mat8": {
+			"program": "program_mat8",
+			"extras": {"gvrss" : "https://vr.google.com/shaders/w/gvrss/paper.json"},
+			"parameters": {
+				"position": {
+					"type": 35665,
+					"semantic": "POSITION"
+				},
+				"normal": {
+					"type": 35665,
+					"semantic": "NORMAL"
+				},
+				"color": {
+					"type": 35666,
+					"semantic": "COLOR"
+				},
+				"modelViewMatrix": {
+					"type": 35676,
+					"semantic": "MODELVIEW"
+				},
+				"projectionMatrix": {
+					"type": 35676,
+					"semantic": "PROJECTION"
+				},
+				"normalMatrix": {
+					"type": 35675,
+					"semantic": "MODELVIEWINVERSETRANSPOSE"
+				},
+				"color": {
+					"type": 35666
+				},
+				"roughness": {
+					"type": 5126
+				},
+				"metallic": {
+					"type": 5126
+				},
+				"light0Pos": {
+					"type": 35666
+				},
+				"light0Color": {
+					"type": 35666
+				},
+				"light1Pos": {
+					"type": 35666
+				},
+				"light1Color": {
+					"type": 35666
+				}				
+			},
+			"attributes": {
+				"a_position": "position",
+				"a_normal": "normal",
+				"a_color": "color"				
+			},
+			"uniforms": {
+				"u_modelViewMatrix": "modelViewMatrix",
+				"u_projectionMatrix": "projectionMatrix",
+				"u_normalMatrix": "normalMatrix",
+				"u_color": "color",
+				"u_roughness": "roughness",
+				"u_metallic": "metallic",
+				"u_light0Pos": "light0Pos",
+				"u_light0Color": "light0Color",
+				"u_light1Pos": "light1Pos",
+				"u_light1Color": "light1Color"				
+			},
+			"states": {
+				"enable": [
+					2929,
+					2884
+				],
+				"functions": {
+					"cullFace": [1029]
+				}
+			}
+		},
+		"technique_mat11": {
+			"program": "program_mat11",
+			"extras": {"gvrss" : "https://vr.google.com/shaders/w/gvrss/paper.json"},
+			"parameters": {
+				"position": {
+					"type": 35665,
+					"semantic": "POSITION"
+				},
+				"normal": {
+					"type": 35665,
+					"semantic": "NORMAL"
+				},
+				"color": {
+					"type": 35666,
+					"semantic": "COLOR"
+				},
+				"modelViewMatrix": {
+					"type": 35676,
+					"semantic": "MODELVIEW"
+				},
+				"projectionMatrix": {
+					"type": 35676,
+					"semantic": "PROJECTION"
+				},
+				"normalMatrix": {
+					"type": 35675,
+					"semantic": "MODELVIEWINVERSETRANSPOSE"
+				},
+				"color": {
+					"type": 35666
+				},
+				"roughness": {
+					"type": 5126
+				},
+				"metallic": {
+					"type": 5126
+				},
+				"light0Pos": {
+					"type": 35666
+				},
+				"light0Color": {
+					"type": 35666
+				},
+				"light1Pos": {
+					"type": 35666
+				},
+				"light1Color": {
+					"type": 35666
+				}				
+			},
+			"attributes": {
+				"a_position": "position",
+				"a_normal": "normal",
+				"a_color": "color"				
+			},
+			"uniforms": {
+				"u_modelViewMatrix": "modelViewMatrix",
+				"u_projectionMatrix": "projectionMatrix",
+				"u_normalMatrix": "normalMatrix",
+				"u_color": "color",
+				"u_roughness": "roughness",
+				"u_metallic": "metallic",
+				"u_light0Pos": "light0Pos",
+				"u_light0Color": "light0Color",
+				"u_light1Pos": "light1Pos",
+				"u_light1Color": "light1Color"				
+			},
+			"states": {
+				"enable": [
+					2929,
+					2884
+				],
+				"functions": {
+					"cullFace": [1029]
+				}
+			}
+		},
+		"technique_mat20": {
+			"program": "program_mat20",
+			"extras": {"gvrss" : "https://vr.google.com/shaders/w/gvrss/paper.json"},
+			"parameters": {
+				"position": {
+					"type": 35665,
+					"semantic": "POSITION"
+				},
+				"normal": {
+					"type": 35665,
+					"semantic": "NORMAL"
+				},
+				"color": {
+					"type": 35666,
+					"semantic": "COLOR"
+				},
+				"modelViewMatrix": {
+					"type": 35676,
+					"semantic": "MODELVIEW"
+				},
+				"projectionMatrix": {
+					"type": 35676,
+					"semantic": "PROJECTION"
+				},
+				"normalMatrix": {
+					"type": 35675,
+					"semantic": "MODELVIEWINVERSETRANSPOSE"
+				},
+				"color": {
+					"type": 35666
+				},
+				"roughness": {
+					"type": 5126
+				},
+				"metallic": {
+					"type": 5126
+				},
+				"light0Pos": {
+					"type": 35666
+				},
+				"light0Color": {
+					"type": 35666
+				},
+				"light1Pos": {
+					"type": 35666
+				},
+				"light1Color": {
+					"type": 35666
+				}				
+			},
+			"attributes": {
+				"a_position": "position",
+				"a_normal": "normal",
+				"a_color": "color"				
+			},
+			"uniforms": {
+				"u_modelViewMatrix": "modelViewMatrix",
+				"u_projectionMatrix": "projectionMatrix",
+				"u_normalMatrix": "normalMatrix",
+				"u_color": "color",
+				"u_roughness": "roughness",
+				"u_metallic": "metallic",
+				"u_light0Pos": "light0Pos",
+				"u_light0Color": "light0Color",
+				"u_light1Pos": "light1Pos",
+				"u_light1Color": "light1Color"				
+			},
+			"states": {
+				"enable": [
+					2929,
+					2884
+				],
+				"functions": {
+					"cullFace": [1029]
+				}
+			}
+		},
+		"technique_mat16": {
+			"program": "program_mat16",
+			"extras": {"gvrss" : "https://vr.google.com/shaders/w/gvrss/paper.json"},
+			"parameters": {
+				"position": {
+					"type": 35665,
+					"semantic": "POSITION"
+				},
+				"normal": {
+					"type": 35665,
+					"semantic": "NORMAL"
+				},
+				"color": {
+					"type": 35666,
+					"semantic": "COLOR"
+				},
+				"modelViewMatrix": {
+					"type": 35676,
+					"semantic": "MODELVIEW"
+				},
+				"projectionMatrix": {
+					"type": 35676,
+					"semantic": "PROJECTION"
+				},
+				"normalMatrix": {
+					"type": 35675,
+					"semantic": "MODELVIEWINVERSETRANSPOSE"
+				},
+				"color": {
+					"type": 35666
+				},
+				"roughness": {
+					"type": 5126
+				},
+				"metallic": {
+					"type": 5126
+				},
+				"light0Pos": {
+					"type": 35666
+				},
+				"light0Color": {
+					"type": 35666
+				},
+				"light1Pos": {
+					"type": 35666
+				},
+				"light1Color": {
+					"type": 35666
+				}				
+			},
+			"attributes": {
+				"a_position": "position",
+				"a_normal": "normal",
+				"a_color": "color"				
+			},
+			"uniforms": {
+				"u_modelViewMatrix": "modelViewMatrix",
+				"u_projectionMatrix": "projectionMatrix",
+				"u_normalMatrix": "normalMatrix",
+				"u_color": "color",
+				"u_roughness": "roughness",
+				"u_metallic": "metallic",
+				"u_light0Pos": "light0Pos",
+				"u_light0Color": "light0Color",
+				"u_light1Pos": "light1Pos",
+				"u_light1Color": "light1Color"				
+			},
+			"states": {
+				"enable": [
+					2929,
+					2884
+				],
+				"functions": {
+					"cullFace": [1029]
+				}
+			}
+		},
+		"technique_mat21": {
+			"program": "program_mat21",
+			"extras": {"gvrss" : "https://vr.google.com/shaders/w/gvrss/paper.json"},
+			"parameters": {
+				"position": {
+					"type": 35665,
+					"semantic": "POSITION"
+				},
+				"normal": {
+					"type": 35665,
+					"semantic": "NORMAL"
+				},
+				"color": {
+					"type": 35666,
+					"semantic": "COLOR"
+				},
+				"modelViewMatrix": {
+					"type": 35676,
+					"semantic": "MODELVIEW"
+				},
+				"projectionMatrix": {
+					"type": 35676,
+					"semantic": "PROJECTION"
+				},
+				"normalMatrix": {
+					"type": 35675,
+					"semantic": "MODELVIEWINVERSETRANSPOSE"
+				},
+				"color": {
+					"type": 35666
+				},
+				"roughness": {
+					"type": 5126
+				},
+				"metallic": {
+					"type": 5126
+				},
+				"light0Pos": {
+					"type": 35666
+				},
+				"light0Color": {
+					"type": 35666
+				},
+				"light1Pos": {
+					"type": 35666
+				},
+				"light1Color": {
+					"type": 35666
+				}				
+			},
+			"attributes": {
+				"a_position": "position",
+				"a_normal": "normal",
+				"a_color": "color"				
+			},
+			"uniforms": {
+				"u_modelViewMatrix": "modelViewMatrix",
+				"u_projectionMatrix": "projectionMatrix",
+				"u_normalMatrix": "normalMatrix",
+				"u_color": "color",
+				"u_roughness": "roughness",
+				"u_metallic": "metallic",
+				"u_light0Pos": "light0Pos",
+				"u_light0Color": "light0Color",
+				"u_light1Pos": "light1Pos",
+				"u_light1Color": "light1Color"				
+			},
+			"states": {
+				"enable": [
+					2929,
+					2884
+				],
+				"functions": {
+					"cullFace": [1029]
+				}
+			}
+		}
+	},
+	"materials": {
+		"material_mat23": {
+			"technique": "technique_mat23",
+			"values": {
+				"color": [0.1019608, 0.1019608, 0.1019608, 1],
+				"roughness": 0.72,
+				"metallic": 0,
+				"light0Pos": [-0.02, 4.11, -0.54, 0],
+				"light0Color": [0.8, 0.8, 0.8, 0],
+				"light1Pos": [0.02, -4.11, 0.54, 0],
+				"light1Color": [0.64, 0.5647059, 0.5647059, 0]				
+			},
+			"name": "material_mat23"
+		},
+		"material_mat9": {
+			"technique": "technique_mat9",
+			"values": {
+				"color": [0.5450981, 0.7647059, 0.2901961, 1],
+				"roughness": 0.72,
+				"metallic": 0,
+				"light0Pos": [-0.02, 4.11, -0.54, 0],
+				"light0Color": [0.8, 0.8, 0.8, 0],
+				"light1Pos": [0.02, -4.11, 0.54, 0],
+				"light1Color": [0.64, 0.5647059, 0.5647059, 0]				
+			},
+			"name": "material_mat9"
+		},
+		"material_mat17": {
+			"technique": "technique_mat17",
+			"values": {
+				"color": [0.2705882, 0.3529412, 0.3921569, 1],
+				"roughness": 0.72,
+				"metallic": 0,
+				"light0Pos": [-0.02, 4.11, -0.54, 0],
+				"light0Color": [0.8, 0.8, 0.8, 0],
+				"light1Pos": [0.02, -4.11, 0.54, 0],
+				"light1Color": [0.64, 0.5647059, 0.5647059, 0]				
+			},
+			"name": "material_mat17"
+		},
+		"material_mat8": {
+			"technique": "technique_mat8",
+			"values": {
+				"color": [0.9568627, 0.2627451, 0.2117647, 1],
+				"roughness": 0.72,
+				"metallic": 0,
+				"light0Pos": [-0.02, 4.11, -0.54, 0],
+				"light0Color": [0.8, 0.8, 0.8, 0],
+				"light1Pos": [0.02, -4.11, 0.54, 0],
+				"light1Color": [0.64, 0.5647059, 0.5647059, 0]				
+			},
+			"name": "material_mat8"
+		},
+		"material_mat11": {
+			"technique": "technique_mat11",
+			"values": {
+				"color": [0, 0.5882353, 0.5333334, 1],
+				"roughness": 0.72,
+				"metallic": 0,
+				"light0Pos": [-0.02, 4.11, -0.54, 0],
+				"light0Color": [0.8, 0.8, 0.8, 0],
+				"light1Pos": [0.02, -4.11, 0.54, 0],
+				"light1Color": [0.64, 0.5647059, 0.5647059, 0]				
+			},
+			"name": "material_mat11"
+		},
+		"material_mat20": {
+			"technique": "technique_mat20",
+			"values": {
+				"color": [0.4745098, 0.3333333, 0.282353, 1],
+				"roughness": 0.72,
+				"metallic": 0,
+				"light0Pos": [-0.02, 4.11, -0.54, 0],
+				"light0Color": [0.8, 0.8, 0.8, 0],
+				"light1Pos": [0.02, -4.11, 0.54, 0],
+				"light1Color": [0.64, 0.5647059, 0.5647059, 0]				
+			},
+			"name": "material_mat20"
+		},
+		"material_mat16": {
+			"technique": "technique_mat16",
+			"values": {
+				"color": [0.4705882, 0.5647059, 0.6117647, 1],
+				"roughness": 0.72,
+				"metallic": 0,
+				"light0Pos": [-0.02, 4.11, -0.54, 0],
+				"light0Color": [0.8, 0.8, 0.8, 0],
+				"light1Pos": [0.02, -4.11, 0.54, 0],
+				"light1Color": [0.64, 0.5647059, 0.5647059, 0]				
+			},
+			"name": "material_mat16"
+		},
+		"material_mat21": {
+			"technique": "technique_mat21",
+			"values": {
+				"color": [1, 1, 1, 1],
+				"roughness": 0.72,
+				"metallic": 0,
+				"light0Pos": [-0.02, 4.11, -0.54, 0],
+				"light0Color": [0.8, 0.8, 0.8, 0],
+				"light1Pos": [0.02, -4.11, 0.54, 0],
+				"light1Color": [0.64, 0.5647059, 0.5647059, 0]				
+			},
+			"name": "material_mat21"
+		}
+	},
+	"nodes": {
+		"node_MeshObject-1060670080-PolyPaper23": {
+			"name": "node_MeshObject-1060670080-PolyPaper23",
+			"meshes": [
+				"mesh_m0-PolyPaper23_-118936"
+			],
+			"matrix": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1]
+		},
+		"node_MeshObject-115891328-PolyPaper9": {
+			"name": "node_MeshObject-115891328-PolyPaper9",
+			"meshes": [
+				"mesh_m1-PolyPaper9_-125506"
+			],
+			"matrix": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1]
+		},
+		"node_MeshObject921548800-PolyPaper17": {
+			"name": "node_MeshObject921548800-PolyPaper17",
+			"meshes": [
+				"mesh_m2-PolyPaper17_-125512"
+			],
+			"matrix": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1]
+		},
+		"node_MeshObject1440268864-PolyPaper8": {
+			"name": "node_MeshObject1440268864-PolyPaper8",
+			"meshes": [
+				"mesh_m3-PolyPaper8_-125514"
+			],
+			"matrix": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1]
+		},
+		"node_MeshObject-1035086208-PolyPaper11": {
+			"name": "node_MeshObject-1035086208-PolyPaper11",
+			"meshes": [
+				"mesh_m4-PolyPaper11_-13502"
+			],
+			"matrix": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1]
+		},
+		"node_MeshObject-516366144-PolyPaper17": {
+			"name": "node_MeshObject-516366144-PolyPaper17",
+			"meshes": [
+				"mesh_m5-PolyPaper17_-13504"
+			],
+			"matrix": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1]
+		},
+		"node_MeshObject2353920-PolyPaper20": {
+			"name": "node_MeshObject2353920-PolyPaper20",
+			"meshes": [
+				"mesh_m6-PolyPaper20_-13506"
+			],
+			"matrix": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1]
+		},
+		"node_MeshObject402828736-PolyPaper23": {
+			"name": "node_MeshObject402828736-PolyPaper23",
+			"meshes": [
+				"mesh_m7-PolyPaper23_-125510"
+			],
+			"matrix": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1]
+		},
+		"node_MeshObject1039794048-PolyPaper16": {
+			"name": "node_MeshObject1039794048-PolyPaper16",
+			"meshes": [
+				"mesh_m8-PolyPaper16_-13510"
+			],
+			"matrix": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1]
+		},
+		"node_MeshObject1558514112-PolyPaper17": {
+			"name": "node_MeshObject1558514112-PolyPaper17",
+			"meshes": [
+				"mesh_m9-PolyPaper17_-13512"
+			],
+			"matrix": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1]
+		},
+		"node_MeshObject1504726080-PolyPaper20": {
+			"name": "node_MeshObject1504726080-PolyPaper20",
+			"meshes": [
+				"mesh_m10-PolyPaper20_-48792"
+			],
+			"matrix": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1]
+		},
+		"node_MeshObject-1817258304-PolyPaper17": {
+			"name": "node_MeshObject-1817258304-PolyPaper17",
+			"meshes": [
+				"mesh_m11-PolyPaper17_-126568"
+			],
+			"matrix": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1]
+		},
+		"node_MeshObject-1153331456-PolyPaper21": {
+			"name": "node_MeshObject-1153331456-PolyPaper21",
+			"meshes": [
+				"mesh_m12-PolyPaper21_-125502"
+			],
+			"matrix": [1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1]
+		}
+	},
+	"scene": "defaultScene",
+	"scenes": {
+		"defaultScene": {
+			"nodes": [
+				"node_MeshObject-1060670080-PolyPaper23",
+				"node_MeshObject-115891328-PolyPaper9",
+				"node_MeshObject921548800-PolyPaper17",
+				"node_MeshObject1440268864-PolyPaper8",
+				"node_MeshObject-1035086208-PolyPaper11",
+				"node_MeshObject-516366144-PolyPaper17",
+				"node_MeshObject2353920-PolyPaper20",
+				"node_MeshObject402828736-PolyPaper23",
+				"node_MeshObject1039794048-PolyPaper16",
+				"node_MeshObject1558514112-PolyPaper17",
+				"node_MeshObject1504726080-PolyPaper20",
+				"node_MeshObject-1817258304-PolyPaper17",
+				"node_MeshObject-1153331456-PolyPaper21"
+			],
+			"extras": {
+
+			}
+		}
+	}
+}
