@@ -6,6 +6,12 @@ URL: https://poly.google.com/view/68unrtIOrFi
 License: Creative Commons CC-BY
 https://creativecommons.org/licenses/by/3.0/legalcode
 
+Title: Arrow2
+Author: Bharadwaj B
+URL: https://poly.google.com/view/ebdNfNmww_7
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
 Title: Blockies - Character Studio
 Author: Michael Fuchs
 URL: https://poly.google.com/view/1GzNUdwGUQ5
